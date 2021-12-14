@@ -1,0 +1,15 @@
+C:\Users\nitin.saini\source\repos\BillReimbursement\BillReimbursement.Service\bin\Debug\net6.0\BillReimbursement.Service.deps.json
+C:\Users\nitin.saini\source\repos\BillReimbursement\BillReimbursement.Service\bin\Debug\net6.0\BillReimbursement.Service.dll
+C:\Users\nitin.saini\source\repos\BillReimbursement\BillReimbursement.Service\bin\Debug\net6.0\ref\BillReimbursement.Service.dll
+C:\Users\nitin.saini\source\repos\BillReimbursement\BillReimbursement.Service\bin\Debug\net6.0\BillReimbursement.Service.pdb
+C:\Users\nitin.saini\source\repos\BillReimbursement\BillReimbursement.Service\obj\Debug\net6.0\BillReimbursement.Service.csproj.AssemblyReference.cache
+C:\Users\nitin.saini\source\repos\BillReimbursement\BillReimbursement.Service\obj\Debug\net6.0\BillReimbursement.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitin.saini\source\repos\BillReimbursement\BillReimbursement.Service\obj\Debug\net6.0\BillReimbursement.Service.AssemblyInfoInputs.cache
+C:\Users\nitin.saini\source\repos\BillReimbursement\BillReimbursement.Service\obj\Debug\net6.0\BillReimbursement.Service.AssemblyInfo.cs
+C:\Users\nitin.saini\source\repos\BillReimbursement\BillReimbursement.Service\obj\Debug\net6.0\BillReimbursement.Service.csproj.CoreCompileInputs.cache
+C:\Users\nitin.saini\source\repos\BillReimbursement\BillReimbursement.Service\obj\Debug\net6.0\BillReimbursement.Service.dll
+C:\Users\nitin.saini\source\repos\BillReimbursement\BillReimbursement.Service\obj\Debug\net6.0\ref\BillReimbursement.Service.dll
+C:\Users\nitin.saini\source\repos\BillReimbursement\BillReimbursement.Service\obj\Debug\net6.0\BillReimbursement.Service.pdb
+C:\Users\nitin.saini\source\repos\BillReimbursement\BillReimbursement.Service\bin\Debug\net6.0\BillReimbursement.Repository.dll
+C:\Users\nitin.saini\source\repos\BillReimbursement\BillReimbursement.Service\bin\Debug\net6.0\BillReimbursement.Repository.pdb
+C:\Users\nitin.saini\source\repos\BillReimbursement\BillReimbursement.Service\obj\Debug\net6.0\BillReimbursement.Service.csproj.CopyComplete

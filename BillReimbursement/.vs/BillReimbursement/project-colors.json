@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "14f4ed66-4f64-4459-9386-08dd1bd8a672": {
+      "ProjectGuid": "14f4ed66-4f64-4459-9386-08dd1bd8a672",
+      "DisplayName": "BillReimbursement",
+      "ColorIndex": 0
+    },
+    "f9ae1967-a526-4cca-8a44-12ab315c169e": {
+      "ProjectGuid": "f9ae1967-a526-4cca-8a44-12ab315c169e",
+      "DisplayName": "BillReimbursement.Repository",
+      "ColorIndex": 1
+    },
+    "11b3912e-3d17-4ff0-813b-7cb942e8fde7": {
+      "ProjectGuid": "11b3912e-3d17-4ff0-813b-7cb942e8fde7",
+      "DisplayName": "BillReimbursement.Service",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "37351f5d-cf0e-4499-a1fb-b041a231b1bb": {
+      "ProjectGuid": "37351f5d-cf0e-4499-a1fb-b041a231b1bb",
+      "DisplayName": "BillReimbursement.Tests",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

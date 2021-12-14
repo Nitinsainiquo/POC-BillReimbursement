@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EC7KvrmE3shTbef6toObS2HI5K9H3KBoRl24YPDL1Ng=",
+  "Source": "BillReimbursement",
+  "BasePath": "_content/BillReimbursement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
