@@ -1,0 +1,23 @@
+<div class="wrapper fadeInDown">
+    <div id="formContent">
+      <div class="fadeIn first">
+      <img src="https://img.icons8.com/color/480/000000/user.png" id="icon" alt="User Icon" />
+      </div>
+      <form #form='ngForm' id="FormId" autocomplete="off" (submit)="onSubmit(form)">
+        <input type="text" class="fadeIn second" placeholder="Email Address"
+        #EmailId="ngModel" name="EmailId" [(ngModel)]="LoginForm.EmailId" required
+        ngModel pattern="^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$">
+        <p class="text-danger" *ngIf = "EmailId.touched&&!EmailId.valid">Enter Valid Email Address</p>
+        <input type="text" id="password" class="fadeIn third" placeholder="password"
+        #Password="ngModel" name="Password" [(ngModel)]="LoginForm.Password" required>
+        <p class="text-danger" *ngIf = "Password.touched&&!Password.valid">Enter Password</p>
+        <input type="submit" id="SubmitButton" class="fadeIn fourth" [disabled]="form.invalid" value="Log In">
+      </form>
+  
+      <div id="formFooter">
+        New user? <a class="underlineHover" href="#"> Register Here</a>
+      </div>
+  
+    </div>
+  </div>
+  
